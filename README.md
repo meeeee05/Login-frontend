@@ -5,7 +5,7 @@ Next.js を用いて実装したもので、Rails実装した認証APIと連携�
 
 本システムの構築手順や実装のポイントは、以下の記事で解説しています。
 
-【作成中...】
+[【Next.js】【Rails】ログイン画面とAPIを作ってみる②（Frontend作成編）](https://zenn.dev/eeeee05/articles/714c72169e6af7)
 
 ## 技術スタック
 
